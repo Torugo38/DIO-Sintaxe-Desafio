@@ -22,7 +22,7 @@ public class ContaTerminal {
         System.out.print(cb);
 
         System.out.println();
-        System.out.println("Obrigado por Usar nosso banco!!!");
+        
 
         sc.close();
     }
